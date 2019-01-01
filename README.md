@@ -41,7 +41,7 @@ features
 - MAC Adress Generator
 - MAC Adress Changer
 - MAC Adress Viwer
-- MAC Adress Restor
+- MAC Adress Restore
 
 Contact
 =
